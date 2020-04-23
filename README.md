@@ -50,13 +50,13 @@
 							<div class="spotlight">
 								<div class="content">
 									<header class="major">
-										<h2>We are recruiting!</h2>
+										<h2>Recruiting!</h2>
 									</header>
-									<p>	We are currently looking for a PhD student to join our lab! Projects are available relating to computational biology, metagenomics, and metatranscriptomics.
+									<p>
 									<br>
 									</p>
 									<ul class="actions">
-									<li><a href="mailto:ggloor@uwo.ca" class="button">Click here to inquire</a></li>
+									<li><a href="      " class="button">Click here to inquire</a></li>
 								</div>
 							</div>
 						</section>
@@ -88,33 +88,8 @@
 								<ul class="features">
 									<li>
 										<span class="image"><img src = "images/gg.jpg" alt = "" /></span>
-										<h3>Greg Gloor</h3>
+										<h3>Bijen</h3>
 										<p>Professor, Dept. of Biochemistry</p>
-									</li>
-									<li>
-										<span class="image"><img src = "images/jm.jpg" alt = "" /></span>
-										<h3>Jean M Macklaim</h3>
-										<p>Postdoctoral Researcher</p>
-									</li>
-									<li>
-										<span class="image"><img src = "images/dg.jpg" alt = "" /></span>
-										<h3>Daniel Giguere</h3>
-										<p>Graduate student</p>
-									</li>
-									<li>
-										<span class="image"><img src = "images/bj.jpg" alt = "" /></span>
-										<h3>Ben Joris</h3>
-										<p>Graduate student</p>
-									</li>
-									<li>
-										<span class="image"><img src = "images/kh.jpg" alt = "" /></span>
-										<h3>Kaitlyn Hobbs</h3>
-										<p>Undergraduate student</p>
-									</li>
-									<li>
-										<span class="image"><img src = "images/bl.png" alt = "" /></span>
-										<h3>Brandon Lieng</h3>
-										<p>Undergraduate student</p>
 									</li>
 								</ul>
 								<footer class="major">
@@ -130,7 +105,7 @@
 								<h2>Publications</h2>
 							</header>
 							<ul class="actions">
-								<li><a href="https://scholar.google.ca/citations?hl=en&user=909NxQEAAAAJ&view_op=list_works&sortby=pubdate" class="button">See recent publications on Google Scholar</a></li>
+								<li><a href="https://scholar.google.com/citations?hl=en&user=km7yZl4AAAAJ&view_op=list_works&sortby=pubdate" class="button">See recent publications on Google Scholar</a></li>
 							</ul>
 							</section>
 
@@ -140,20 +115,20 @@
 				<!-- Footer -->
 					<footer id="footer">
 						<section>
-							<a class="twitter-timeline" data-width="400" data-height="300" href="https://twitter.com/gbgloor">Tweets by @gbgloor</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+							<a class="twitter-timeline" data-width="400" data-height="300" href="https://twitter.com/Bezzonee">Tweets by @gbgloor</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 						</section>
 						<section>
 							<h2>Where to find us</h2>
 							<dl class="alt">
 								<dt>Address</dt>
-								<dd>Molecular Biology Laboratory, C6<br> 1151 Richmond Street &bull; London, ON &bull; Canada</dd>
+								<dd> Innovation Laboratory, C6<br> Toronto, Canada</dd>
 							</dl>
 							<ul class="icons">
-								<li><a href="https://twitter.com/gbgloor" class="icon fa-twitter alt"><span class="label">Twitter</span></a></li>
-								<li><a href="https://github.com/ggloor" class="icon fa-github alt"><span class="label">GitHub</span></a></li>
+								<li><a href="https://twitter.com/Bezzonee" class="icon fa-twitter alt"><span class="label">Twitter</span></a></li>
+								<li><a href="https://github.com/KhadkaBijen" class="icon fa-github alt"><span class="label">GitHub</span></a></li>
 							</ul>
 						</section>
-						<p class="copyright">&copy; Created by Brandon Lieng and Daniel Giguere | Design: <a href="https://html5up.net">HTML5 UP</a></p>
+						<p class="copyright">&copy; Created by Bijen | Design: <a href="https://html5up.net">HTML5 UP</a></p>
 					</footer>
 
 			</div>
