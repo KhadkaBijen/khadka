@@ -1,4 +1,3 @@
-<!DOCTYPE HTML>
 <!--
 	Stellar by HTML5 UP
 	html5up.net | @ajlkn
@@ -7,7 +6,7 @@
 
 <html>
 	<head>
-		<title>Gloor Lab</title>
+		<title>Bijen Lab</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -30,8 +29,8 @@
 				<!-- Header -->
 					<header id="header" class="alt">
 						<span class="logo"><img src="images/gsquared.png" alt="" /></span>
-						<h1>Welcome to the Gloor Lab</h1>
-						<p>The University of Western Ontario, London, Canada</p>
+						<h1>Welcome to the Bijen Lab</h1>
+						<p>Toronto, Canada</p>
 					</header>
 
 				<!-- Nav -->
